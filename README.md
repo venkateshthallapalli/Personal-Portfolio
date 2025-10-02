@@ -40,5 +40,9 @@ portfolio-website/
 │ └── script.js # JavaScript for interactivity
 └── images/ # All project and profile images
 
+#screenshots
+<img width="1890" height="885" alt="Screenshot 2025-10-02 095015" src="https://github.com/user-attachments/assets/5bf468a9-2ff5-4c51-8c09-103c8ef7a6da" />
+<img width="1890" height="881" alt="Screenshot 2025-10-02 095035" src="https://github.com/user-attachments/assets/b62b8ebb-097c-4127-9fc8-38b52afeee69" />
+
 
 
